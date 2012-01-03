@@ -8,4 +8,4 @@ GitHubをつかうのはいい。投稿機能を実装しなくて済んだし�
 
 vimで記事を書いて、GitHubにpushする。そして、Post-Receive Hookでサイトを更新するという、お馴染みのやつである。
 
-結局のところ、[Octopress](http://octopress.org/ "Octopress")でいいだろうってことなのだが、自作するのがアツいわけであり、ぼくのblogがArcで動いていなければ嘘である。
+結局のところ、[Octopress](http://octopress.org/ "Octopress")でいいだろうということなのだが、自作するのがアツいわけであり、ぼくのblogがArcで動いていなければ嘘である。
