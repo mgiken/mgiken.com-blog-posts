@@ -1,0 +1,11 @@
+GANCだと思った? 残念! GANGちゃんでした!
+ryuji
+blog
+
+なぜだか、現実逃避を繰り返しながらblogなどをつくっていた。GANCは最強なのだが、最近は、blogの記事もGitHubで管理するのが流行のようなので、Gentoo、Arc、Nginx、GitHubなのである。
+
+GitHubをつかうのはいい。投稿機能を実装しなくて済んだし、なにより、vimで記事を書けるのはすばらしい。投稿機能が残念だとblogを書く気にはなれないだろう。
+
+vimで記事を書いて、GitHubにpushする。そして、Post-Receive Hookでサイトを更新するという、お馴染みのやつである。
+
+結局のところ、[Octopress](http://octopress.org/ "Octopress")でいいだろうってことなのだが、自作するのがアツいわけであり、ぼくのblogがArcで動いていなければ嘘である。
